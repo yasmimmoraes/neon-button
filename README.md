@@ -1,4 +1,4 @@
 # neon-button
  
  Botões com efeito neon utilizando CSS <br>
- <p>para acessar o site clique<a href="https://yasmimmoraes.github.io/site-android/"> aqui</a></p>
+ <p>Para ver o resultado do projeto clique<a href="https://yasmimmoraes.github.io/neon-button/"> aqui</a></p>
